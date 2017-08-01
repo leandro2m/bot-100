@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: ibm-100-demo
-  host: ibm-100-demo
+  name: bot-100-lemoraes
+  host: bot-100-lemoraes
   disk_quota: 256M
